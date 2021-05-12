@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![](C:\Users\Musa\Desktop\repo\kodluyoruzilkrepo\Kodluyoruz.png)
+![](Images\Kodluyoruz.png)
 
 ## Installation
 
