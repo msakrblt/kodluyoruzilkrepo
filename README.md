@@ -31,4 +31,6 @@ Aynen oyle.
 
 ## License
 
+Hep buralar lisans
+
 ![]()
