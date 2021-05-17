@@ -27,7 +27,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-
+Aynen oyle.
 
 ## License
 
