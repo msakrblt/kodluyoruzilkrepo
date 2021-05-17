@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![](Images\Kodluyoruz.png)
+![](Images/Kodluyoruz.png)
 
 ## Installation
 
