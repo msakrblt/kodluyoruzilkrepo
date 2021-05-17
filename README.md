@@ -3,6 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ![](Images/Kodluyoruz.png)
 
+Merhabalar, hadi conflict yek
 ## Installation
 
 Öncelikle projeyi clonelayın.
